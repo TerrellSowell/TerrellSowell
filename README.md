@@ -5,7 +5,7 @@ I am a current student pursuing an Associates of Science degree with a concentra
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for technology, and I am now eager to transition into this field, specifically aiming to join a Network Operations Center (NOC) as a Tier 1 Network Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
