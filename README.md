@@ -22,28 +22,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
-</div>
-
-### Endpoint
+## Tools and Technology
 ![Microsoft Active Directory](https://img.shields.io/badge/Microsoft%20Active%20Directory-blue?logo=microsoft-active-directory&style=for-the-badge)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoft-azure&style=for-the-badge)](https://azure.microsoft.com/)
-[![OSTicket Version](https://img.shields.io/badge/OSTicket-v1.15.6-blue)](https://github.com/osTicket/osTicket/releases/tag/v1.15.6)
+[![OSTicket Version](https://img.shields.io/badge/OSTicket-blue)](https://github.com/osTicket/osTicket/releases/tag/v1.15.6)
 ![ProtonVPN](https://img.shields.io/badge/ProtonVPN-Securelogo=protonvpn)
 [![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](https://www.microsoft.com/en-us/cloud-platform/windows-server)
-
-</div>
-
-### SIEM
-<div>
-   
-</div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    
 
 ## Certifications
 [![CCNA Certified](https://img.shields.io/badge/CCNA-Certified-blue?logo=cisco&style=for-the-badge)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
