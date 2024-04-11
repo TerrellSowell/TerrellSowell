@@ -33,13 +33,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 ![Microsoft Active Directory](https://img.shields.io/badge/Microsoft%20Active%20Directory-blue?logo=microsoft-active-directory&style=for-the-badge)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoft-azure&style=for-the-badge)](https://azure.microsoft.com/)
+[![OSTicket Version](https://img.shields.io/badge/OSTicket-v1.15.6-blue)](https://github.com/osTicket/osTicket/releases/tag/v1.15.6)
+![ProtonVPN](https://img.shields.io/badge/ProtonVPN-Securelogo=protonvpn)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](https://www.microsoft.com/en-us/cloud-platform/windows-server)
+
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   
 </div>
 
 ## Certifications
@@ -47,5 +50,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
