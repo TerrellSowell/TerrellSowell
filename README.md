@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for technology, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|       |https://github.com/TerrellSowell/OsTicket/blob/main/README.md|
+| Advanced understanding of ticket system properties for I.T. helpdesk     |https://github.com/TerrellSowell/OsTicket/blob/main/README.md|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
