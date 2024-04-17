@@ -7,12 +7,11 @@ I am a current student pursuing an Associates of Science degree with a concentra
 
 My journey in computer science has led me to develop a passion for technology, and I am now eager to transition into this field, specifically aiming to join a Network Operations Center (NOC) as a Tier 1 Network Analyst.
 
-## Skills
-
+## Skills 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Advanced understanding of ticket system properties for I.T. helpdesk     |https://github.com/TerrellSowell/OsTicket/blob/main/README.md|
+| Advanced understanding of ticket system properties for I.T. helpdesk     |<a href="https:/github.com/TerrellSowell/OsTicket/blob/main/README.md/">OsTicket Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
