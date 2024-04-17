@@ -12,11 +12,11 @@ My journey in computer science has led me to develop a passion for technology, a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Advanced understanding of ticket system properties for I.T. helpdesk     |<a href="https:/github.com/TerrellSowell/OsTicket/blob/main/README.md/">OsTicket Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Configure and Implementing Active Directory using Azur | <a href="https://google.com">Active Directory Lab</a>|
+|       | SOC Automation Lab|
+|      | SOC Automation Lab|
+|                   | SOC Automation Lab|
+|  | SOC Automation Lab|
 
 ## Tools and Technology
 ![Microsoft Active Directory](https://img.shields.io/badge/Microsoft%20Active%20Directory-blue?logo=microsoft-active-directory&style=for-the-badge)
