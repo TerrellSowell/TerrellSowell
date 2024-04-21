@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for technology, a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Advanced understanding of ticket system properties for I.T. helpdesk     |<a href="https://github.com/TerrellSowell/OsTicket">OsTicket Lab</a>|
-| Configure and Implementing Active Directory (On-Premise version)for I.T. helpdesk | <a href="https://github.com/TerrellSowell/Active-Directory">Active Directory Lab</a>|
+| Install, Configure and Implement Active Directory(On-Premise version) for System Adminstration/I.T. helpdesk | <a href="https://github.com/TerrellSowell/Active-Directory">Active Directory Lab</a>|
 |       | SOC Automation Lab|
 |      | SOC Automation Lab|
 |                   | SOC Automation Lab|
