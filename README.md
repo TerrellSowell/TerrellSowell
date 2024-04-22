@@ -1,7 +1,7 @@
 # Hello, I'm Terrell
 <a href="https://linkedin.com/in/terrell-sowell"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a current student pursuing an Associates of Science degree with a concentration in Cybersecurity.
+I am currently a student pursuing an Associates of Science degree with a concentration in Cybersecurity.
 
 ## Objective
 
