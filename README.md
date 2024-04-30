@@ -28,7 +28,6 @@ My journey in computer science has led me to develop a passion for technology, a
     
 
 ## Certifications
-[![CCNA Certified](https://img.shields.io/badge/CCNA-Certified-blue?logo=cisco&style=for-the-badge)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
-</div>
+
 
 ## Projects
