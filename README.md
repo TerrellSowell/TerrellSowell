@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for technology, a
 | Active Directory(On-Premise version) Install, Configure and Implementation  | <a href="https://github.com/TerrellSowell/Active-Directory">Active Directory Lab</a>|
 | Active Directory account creation, printer installion, and Cmd Commands       | <a href="https://github.com/TerrellSowell/Helpdesk-functions-Active-Directory-account-creation-Cmd-Commands-">Active Directory Lab</a>|
 | Active Directory Network File Shares and Permissions     | <a href="https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions">Active Directory Lab</a> |
-|                   |<a href="https://github.com/TerrellSowell/VPN-Setup-and-Usage">VPN Lab</a> |
+| VPN setup and Usage                  |<a href="https://github.com/TerrellSowell/VPN-Setup-and-Usage">VPN Lab</a> |
 |  | SOC Automation Lab|
 
 ## Tools and Technology
