@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for technology, a
 | Active Directory Network File Shares and Permissions     | <a href="https://github.com/TerrellSowell/Active-Directory-File-Share-Permissions">Active Directory Lab</a> |
 | VPN setup and Usage                  |<a href="https://github.com/TerrellSowell/VPN-Setup-and-Usage">VPN Lab</a> |
 |  | SOC Automation Lab|
-
+|  How to Install MS Security Scanner and look for Malware                                    | <a href="https://github.com/TerrellSowell/Install-MS-Security-Scanner-and-Look-for-Malware">MS Security Lab</a> |          
 ## Tools and Technology
 ![Microsoft Active Directory](https://img.shields.io/badge/Microsoft%20Active%20Directory-blue?logo=microsoft-active-directory&style=for-the-badge)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoft-azure&style=for-the-badge)](https://azure.microsoft.com/)
